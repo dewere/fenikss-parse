@@ -2,6 +2,10 @@
 
 Fenikss Parse - blazing fast HTTP request parsing library.
 
+## Installation
+
+`pip install fenikss-parse`
+
 ## Usage
 
 Usage is very-very simple:
